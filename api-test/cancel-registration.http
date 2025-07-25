@@ -1,0 +1,3 @@
+DELETE http://localhost:8080/events/1/cancel
+Content-Type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QxQGdtYWlsLmNvbSIsImV4cCI6MTc1MzQ3MDk5OSwidXNlcklkIjoxfQ._ynrkiU7_WfpfyhcQPluQyiLpWAn6KqdfEzxkuj3Zls
